@@ -1,0 +1,34 @@
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Star Icon -->
+  <g transform="translate(10, 10)">
+    <path d="M15 2L18.09 8.26L25 9.27L20 14.14L21.18 21.02L15 17.77L8.82 21.02L10 14.14L5 9.27L11.91 8.26L15 2Z" fill="#FFD700" stroke="#FFA500" stroke-width="1"/>
+  </g>
+  
+  <!-- Building/Store Icon -->
+  <g transform="translate(35, 8)">
+    <rect x="0" y="10" width="20" height="24" fill="#4A90E2" stroke="#2E5C8A" stroke-width="1"/>
+    <rect x="3" y="13" width="3" height="3" fill="#87CEEB"/>
+    <rect x="6" y="13" width="3" height="3" fill="#87CEEB"/>
+    <rect x="11" y="13" width="3" height="3" fill="#87CEEB"/>
+    <rect x="14" y="13" width="3" height="3" fill="#87CEEB"/>
+    <rect x="3" y="17" width="3" height="3" fill="#87CEEB"/>
+    <rect x="6" y="17" width="3" height="3" fill="#87CEEB"/>
+    <rect x="11" y="17" width="3" height="3" fill="#87CEEB"/>
+    <rect x="14" y="17" width="3" height="3" fill="#87CEEB"/>
+    <rect x="7" y="25" width="6" height="9" fill="#8B4513"/>
+    <polygon points="0,10 10,2 20,10" fill="#DC143C"/>
+  </g>
+  
+  <!-- Text -->
+  <text x="70" y="20" font-family="Arial, sans-serif" font-size="16" font-weight="bold" fill="#2C3E50">BizRate</text>
+  <text x="70" y="35" font-family="Arial, sans-serif" font-size="12" fill="#7F8C8D">Business Rating Platform</text>
+  
+  <!-- Rating Stars -->
+  <g transform="translate(70, 38)">
+    <path d="M0 0L1.5 3L5 3.5L2.5 6L3 9.5L0 8L-3 9.5L-2.5 6L-5 3.5L-1.5 3L0 0Z" fill="#FFD700" transform="scale(0.4)"/>
+    <path d="M0 0L1.5 3L5 3.5L2.5 6L3 9.5L0 8L-3 9.5L-2.5 6L-5 3.5L-1.5 3L0 0Z" fill="#FFD700" transform="translate(8, 0) scale(0.4)"/>
+    <path d="M0 0L1.5 3L5 3.5L2.5 6L3 9.5L0 8L-3 9.5L-2.5 6L-5 3.5L-1.5 3L0 0Z" fill="#FFD700" transform="translate(16, 0) scale(0.4)"/>
+    <path d="M0 0L1.5 3L5 3.5L2.5 6L3 9.5L0 8L-3 9.5L-2.5 6L-5 3.5L-1.5 3L0 0Z" fill="#FFD700" transform="translate(24, 0) scale(0.4)"/>
+    <path d="M0 0L1.5 3L5 3.5L2.5 6L3 9.5L0 8L-3 9.5L-2.5 6L-5 3.5L-1.5 3L0 0Z" fill="#FFD700" transform="translate(32, 0) scale(0.4)"/>
+  </g>
+</svg>
